@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngọc Ánh</h1>
-<h3 align="center">A highly motivated and analytical individual with a strong commitment to excellence. I desire to contribute positively to team by effective communication and collaboration skills, with the ultimate goal of utilizing these skills to excel in Risk Consultant position</h3>
+<h3 align="center">A highly motivated and analytical individual with a strong commitment to excellence. I desire to contribute positively to team by effective communication and collaboration skills, with the ultimate goal of utilizing these skills to excel in Risk Credit position</h3>
 
 - 🌱 I’m currently learning **Data Science in Business and Economics**
 
